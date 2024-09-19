@@ -1,2 +1,1 @@
-print("hi3")
-print('ㅎㅎ')
+print("홍보석")
